@@ -2,8 +2,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#101](https://github.com/mindstand/gogm/issues/101) in [mindstand/gogm](https://github.com/mindstand/gogm)
-2. ❗️ Opened issue [#101](https://github.com/mindstand/gogm/issues/101) in [mindstand/gogm](https://github.com/mindstand/gogm)
-3. 💪 Opened PR [#12](https://github.com/icyguider/Shhhloader/pull/12) in [icyguider/Shhhloader](https://github.com/icyguider/Shhhloader)
-4. 🗣 Commented on [#328](https://github.com/neo4j/neo4j-go-driver/issues/328) in [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver)
-5. ❗️ Opened issue [#328](https://github.com/neo4j/neo4j-go-driver/issues/328) in [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver)
+2. 🗣 Commented on [#101](https://github.com/mindstand/gogm/issues/101) in [mindstand/gogm](https://github.com/mindstand/gogm)
+3. ❗️ Opened issue [#101](https://github.com/mindstand/gogm/issues/101) in [mindstand/gogm](https://github.com/mindstand/gogm)
+4. 💪 Opened PR [#12](https://github.com/icyguider/Shhhloader/pull/12) in [icyguider/Shhhloader](https://github.com/icyguider/Shhhloader)
+5. 🗣 Commented on [#328](https://github.com/neo4j/neo4j-go-driver/issues/328) in [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver)
 <!--END_SECTION:activity-->
