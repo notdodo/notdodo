@@ -3,8 +3,8 @@
 ![github-wrapped](https://github.com/notdodo/notdodo/assets/6991986/fb310ed4-7b6b-48dd-a447-4c85e6000edb)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/notdodo/github-actions/pull/13) in [notdodo/github-actions](https://github.com/notdodo/github-actions)
-2. 💪 Opened PR [#13](https://github.com/notdodo/github-actions/pull/13) in [notdodo/github-actions](https://github.com/notdodo/github-actions)
+1. 🎉 Merged PR [#14](https://github.com/notdodo/test-GHAs/pull/14) in [notdodo/test-GHAs](https://github.com/notdodo/test-GHAs)
+2. 💪 Opened PR [#14](https://github.com/notdodo/test-GHAs/pull/14) in [notdodo/test-GHAs](https://github.com/notdodo/test-GHAs)
 3. 🎉 Merged PR [#17](https://github.com/notdodo/bingokta/pull/17) in [notdodo/bingokta](https://github.com/notdodo/bingokta)
 4. 🎉 Merged PR [#12](https://github.com/notdodo/github-actions/pull/12) in [notdodo/github-actions](https://github.com/notdodo/github-actions)
 5. 🎉 Merged PR [#16](https://github.com/notdodo/bingokta/pull/16) in [notdodo/bingokta](https://github.com/notdodo/bingokta)
